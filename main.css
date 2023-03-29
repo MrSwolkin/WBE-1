@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(245, 222, 241);
+}
+
+.container h1 {
+    margin: 32px;
+    border-bottom: 2px solid rgb(73, 56, 56);
+}
+
+.container h1 {
+    font-size: 60px;
+    color: rgb(65, 60, 88);
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.card {
+    margin: 2px;
+}
+
